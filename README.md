@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/alphaax/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/alphaax/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="100" width="100" /></a>
 <p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/alphaax?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/alphaax?theme=dark&font=Nunito&ext=heatmap" height="100" width="100"/>  
 </p>
 <br/>
 
