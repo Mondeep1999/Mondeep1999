@@ -3,6 +3,11 @@
 <!--
 **Mondeep1999/Mondeep1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!---Mondeep Dowari is a passionate DevOps Engineer with expertise in cloud platforms like AWS, Azure, and GCP. Specializing in automation, CI/CD pipelines, and infrastructure as code, he uses tools like Terraform, Jenkins, Docker, Kubernetes, and Istio to optimize systems and improve deployment processes. Mondeep is dedicated to building scalable, highly available, and secure cloud-native architectures.
+
+In addition to his DevOps skills, Mondeep is actively exploring Software Development Engineering (SDE), expanding his knowledge of programming and software design. He enjoys bridging the gap between development and operations, with a focus on creating efficient, maintainable, and automated systems.
+
+Active in the Open Source community, Mondeep regularly contributes to projects that improve cloud infrastructure management, automation, and monitoring. You can find some of his work on GitHub, where he shares solutions and scripts related to DevOps, containerization, and cloud automation.-->
 
 <div align="center"> 
 <h3 align="left">🛠 Language and tools</h3>
